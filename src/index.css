@@ -1,0 +1,36 @@
+.HeaderColor{
+  color:rgb(12, 93, 192);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.body{
+  background-color: aqua !important
+}
+input{
+  border:2px solid rgb(97, 167, 11);
+  border-radius: 10px;
+  height:50px;
+  width: 200px;
+  
+}
+button{
+  background-color: rgb(202, 205, 29);
+  color: white;
+  padding: 10px;
+  width: 20vh;
+  border-radius: 10px;
+  font-weight: bolder;
+}
+.card{
+  background-color:skyblue;
+  padding: 10px;
+  border: 2px solid rgb(97, 167, 11);
+  gap: 5px;
+  display: flex;
+  row-gap: 5px;
+}
+.content{
+  font-size: 20px;
+  text-decoration: underline;
+}
